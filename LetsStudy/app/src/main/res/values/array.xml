@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category">
+        <item>All</item>
+        <item>Basic</item>
+        <item>Advance</item>
+        <item>Expert</item>
+    </string-array>
+
+    <string-array name="status">
+        <item>All</item>
+        <item>Learned</item>
+        <item>Not learn</item>
+    </string-array>
+</resources>
